@@ -1,3 +1,10 @@
+
+**⚠️ THIS PROJECT IS NOW DEPRECATED ⚠️** 
+
+Following release of [JetBrains Gateway](https://www.gitpod.io/docs/ides-and-editors/jetbrains-gateway) support in Gitpod, JetBrains projector is now no longer officially supported by Gitpod. 
+
+---
+
 # A JetBrains GoLand template on Gitpod
 
 This is a [JetBrains GoLand](https://www.jetbrains.com/goland/) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
